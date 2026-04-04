@@ -1,0 +1,22 @@
+{
+  "name": "bitspeed",
+  "version": "1.0.0",
+  "description": "Bitespeed needs a system to identify and link customer records across multiple purchases using shared email or phone number, ensuring a single unified identity.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.0",
+    "express": "^5.2.1",
+    "mongodb": "^7.1.1",
+    "mongoose": "^9.3.3",
+    "nodemon": "^3.1.14"
+  }
+}
