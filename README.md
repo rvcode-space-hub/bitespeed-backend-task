@@ -74,8 +74,17 @@ server.js   ✅ (root level)
 ---
 
 ## 🔗 API Endpoint
+```
+Base URL:
+https://bitespeed-backend-task-84is.onrender.com/
 
-### POST `/api/v1/identify`
+Endpoint:
+POST /api/v1/identify
+
+Full URL:
+https://bitespeed-backend-task-84is.onrender.com/api/v1/identify
+
+```
 
 ### Request Body
 
